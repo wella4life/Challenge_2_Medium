@@ -2,6 +2,7 @@
   - [Fylo Data Storage Component](#the-challenge)
   - [https://wella4life.github.io/Challenge_2_Medium/](#links)
   - ![](images/Finished-Desktop.jpg)
+  - ![](images/Finished-Mobile.jpg)
 
  - Users should be able to:
    - View the optimal layout for the site depending on their device's screen size
