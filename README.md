@@ -1,6 +1,6 @@
 - Overview:
-  - [Fylo Data Storage Component](#the-challenge)
-  - [https://wella4life.github.io/Challenge_2_Medium/](#links)
+  - [Fylo Data Storage Component]
+  - [https://wella4life.github.io/Challenge_2_Medium/]
   - ![](images/Finished-Desktop.jpg)
   - ![](images/Finished-Mobile.jpg)
 
